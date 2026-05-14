@@ -1,0 +1,37 @@
+# Compiled Java class files
+*.class
+
+# Packaged application
+*.jar
+*.war
+*.ear
+
+# IDE project files
+.idea/
+*.iml
+*.ipr
+*.iws
+.eclipse/
+.settings/
+.project
+.classpath
+*.launch
+
+# Eclipse / STS build output
+bin/
+out/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
